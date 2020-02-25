@@ -1,2 +1,2 @@
 # code-repo
-Knowledge Bank to Store all the stuff learnt and worked on!
+Respository to save all the things learnt and worked on!
